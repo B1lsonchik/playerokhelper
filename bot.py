@@ -212,7 +212,7 @@ if __name__ == "__main__":
         setup_logger()
         set_title(f"Playerok Helper  v{VERSION} by @supervaizir")
         print(f"\n\n   {ACCENT_COLOR}Playerok Helper {Fore.WHITE}v{Fore.LIGHTWHITE_EX}{VERSION}"
-              f"\n   ↳ {Fore.LIGHTWHITE_EX}https://github.com/B1lsonchik/playerokhelper"
+              f"\n   ↳ {Fore.LIGHTWHITE_EX}https://github.com/supervaizir/playerokhelper"
               f"\n   ↳ {Fore.LIGHTWHITE_EX}https://t.me/supervaizir"
               f"\n   ↳ {Fore.LIGHTWHITE_EX}https://t.me/PlayerokHelper_news\n\n")
         

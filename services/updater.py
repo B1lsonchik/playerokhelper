@@ -10,7 +10,7 @@ from __init__ import VERSION, SKIP_UPDATES
 from core.utils import restart
 
 
-REPO = "B1lsonchik/playerokhelper"
+REPO = "supervaizir/playerokhelper"
 logger = getLogger(f"helper.updater")
 
 

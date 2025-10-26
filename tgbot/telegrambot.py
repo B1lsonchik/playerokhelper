@@ -73,7 +73,7 @@ class TelegramBot:
                 🕹️ Команды
                 💬 Вызов продавца в чат
                                         
-                ⬇️ Скачать бота: https://github.com/B1lsonchik/playerokhelper
+                ⬇️ Скачать бота: https://github.com/supervaizir/playerokhelper
                 
                 📣 Канал — @PlayerokHelper_news
                 🧑‍💻 Автор — @supervaizir
